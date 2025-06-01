@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Welcome Banner](https://your-banner-image-url.com)
+![Welcome Banner](./header.png)
 
 # 👋 Hello, I'm Gaurav Tailor!
 

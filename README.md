@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-![Welcome Banner](./header.png)
-
-# 👋 Hello, I'm Gaurav Tailor!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+I+am+Gaurav!&height=100&section=header"/>
+</p>
 
 I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in building scalable web applications and have a keen interest in open-source contributions. My journey in tech has been fueled by curiosity and a drive to create impactful solutions.
 

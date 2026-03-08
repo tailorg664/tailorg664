@@ -18,13 +18,6 @@ I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in bu
 - 💡 Start a personal blog or YouTube channel to share knowledge and experiences
 - 🧭 Explore DevOps practices and cloud architecture for seamless deployments
 
----
-
-## 📊 GitHub Statistics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tailorg664&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tailorg664&layout=compact&theme=radical)
 
 ---
 

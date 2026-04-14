@@ -3,20 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+I+am+Gaurav!&height=100&section=header"/>
 </p>
 
-I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in building scalable web applications and have a keen interest in open-source contributions. My journey in tech has been fueled by curiosity and a drive to create impactful solutions.
+I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in building scalable software systems and have a keen interest in system design and developmet. My journey in tech has been fueled by curiosity and a drive to create impactful solutions.
 
 ---
 
-## 🎯 Future Goals
+## 🎯 Current Goals
 
-- 🤖 Learn AI for web integration and build intelligent applications
-- 🌐 Explore and master Web3 development using Solidity (in progress)
-- 🚀 Create production-ready, impactful projects that solve real-world problems
-- 📈 Contribute to open-source projects and collaborate with the global developer community
-- 🎓 Become a resourceful mentor for beginners in web development and AI
-- 🛠️ Optimize performance and scalability of web applications using advanced techniques
-- 💡 Start a personal blog or YouTube channel to share knowledge and experiences
-- 🧭 Explore DevOps practices and cloud architecture for seamless deployments
+-  Learn AI for web integration and build intelligent applications
+-  Create production-ready, impactful projects that solve real-world problems
+-  Contribute to open-source projects and collaborate with the global developer community
+-  Optimize performance and scalability of software apps using advanced techniques
+-  Started bloging to document myself in the journey of Software Engineer
+-  Exploring AI and its integration into Backend Systems
 
 
 ---
@@ -27,6 +25,8 @@ I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in bu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,6 +40,9 @@ I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in bu
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2496ED?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
 ## 📬 How to Reach Me

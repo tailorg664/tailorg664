@@ -9,13 +9,12 @@ I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in bu
 
 ## 🎯 Current Goals
 
--  Learn AI for web integration and build intelligent applications
--  Create production-ready, impactful projects that solve real-world problems
--  Contribute to open-source projects and collaborate with the global developer community
--  Optimize performance and scalability of software apps using advanced techniques
--  Started bloging to document myself in the journey of Software Engineer
--  Exploring AI and its integration into Backend Systems
-
+-  Learning MCP integration with 3D platforms
+-  Creating AI Agents for workflow management for various applications
+-  Open Source Contribution and participation in hackathons
+-  Optimize performance and scalability of software applications
+-  Worker thread management and health analysis of platforms
+-  Leetcode DSA with JAVA and Python and learning new languages like GO
 
 ---
 
@@ -49,25 +48,9 @@ I'm a passionate developer based in Jaipur, Rajasthan, India. I specialize in bu
 
 - 📧 Email: [tailorg664@gmail.com](mailto:tailorg664@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gaurav-tailor](https://www.linkedin.com/in/gaurav-tailor-826556250/)
-- 🐦 Twitter: [@tailorg664](https://twitter.com/tailorg664)
+- 🐦 X: [@tailorg664](https://www.x.com/tailorg664)
 
 ---
 
 *Let's build something great together! 🚀*
 
-
-
-<!--
-**tailorg664/tailorg664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

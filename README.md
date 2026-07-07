@@ -19,7 +19,5 @@ Learning MCP integration with 3D platforms<br>Creating AI Agents for workflow ma
 ![](https://streak-stats.demolab.com/?user=tailorg664&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tailorg664&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=tailorg664&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Daily Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
